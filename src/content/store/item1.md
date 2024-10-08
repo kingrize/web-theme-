@@ -1,11 +1,11 @@
 ---
-title: "Script Swordash"
-description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+title: "Anggur Mewah"
+description: "Anggur berkualitas dengan harga yang pantas, cocok untuk pemula."
 custom_link_label: "Live Preview"
 custom_link: "https://demourl.com/"
 updatedDate: "Oct 07 2024"
 pricing: "100,000"
-badge: "Featured"
+badge: "Paling Laris"
 checkoutUrl: "https://checkouturl.com/](https://wa.me/+62895333221691?text=Halo,%20saya%20ingin%20membeli%20produk%20anggur"
 heroImage: "/itemPreview.webp"
 ---
