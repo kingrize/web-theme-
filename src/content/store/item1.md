@@ -4,9 +4,9 @@ description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do ei
 custom_link_label: "Live Preview"
 custom_link: "https://demourl.com/"
 updatedDate: "Oct 07 2024"
-pricing: "$15"
+pricing: "100,000"
 badge: "Featured"
-checkoutUrl: "https://checkouturl.com/"
+checkoutUrl: "https://checkouturl.com/](https://wa.me/+62895333221691?text=Halo,%20saya%20ingin%20membeli%20produk%20anggur"
 heroImage: "/itemPreview.webp"
 ---
 
