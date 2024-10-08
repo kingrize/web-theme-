@@ -2,7 +2,7 @@
 title: "Anggur Mewah"
 description: "Anggur berkualitas dengan harga yang pantas, cocok untuk pemula."
 updatedDate: "Oct 07 2024"
-custom_link_label: "Tanyakan stok"
+custom_link_label: "Tanyakan Stok"
 custom_link: "https://wa.me/+62895333221691?text=Halo,%20apakah%20stok%20untuk%20anggur%20mewah%20masih%20tersedia?"
 pricing: "Rp 100,000"
 oldPricing: "Rp 120.000"
