@@ -2,6 +2,8 @@
 title: "Anggur Mewah"
 description: "Anggur berkualitas dengan harga yang pantas, cocok untuk pemula."
 updatedDate: "Oct 07 2024"
+custom_link_label: "Live Preview"
+custom_link: "https://demourl.com/"
 pricing: "Rp 100,000"
 oldPricing: "Rp 120.000"
 badge: "Paling Laris"
