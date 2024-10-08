@@ -1,8 +1,6 @@
 ---
 title: "Anggur Mewah"
 description: "Anggur berkualitas dengan harga yang pantas, cocok untuk pemula."
-custom_link_label: "Live Preview"
-custom_link: "https://demourl.com/"
 updatedDate: "Oct 07 2024"
 pricing: "Rp 100,000"
 oldPricing: "Rp 120.000"
@@ -11,7 +9,7 @@ checkoutUrl: "https://wa.me/+62895333221691?text=Halo,%20saya%20ingin%20membeli%
 heroImage: "/anggur_2.jpg"
 ---
 
-"Anggur Spesial untuk Pemula – Nikmati Kelezatan Rasa dalam Setiap Tetes!"
+Anggur Spesial untuk Pemula – Nikmati Kelezatan Rasa dalam Setiap Tetes!
 
 Apakah Anda baru mengenal dunia anggur? Kami mempersembahkan pilihan anggur terbaik yang mudah dinikmati bahkan oleh pemula! Dengan rasa yang ringan, lembut, dan seimbang, anggur ini sempurna bagi mereka yang ingin menjelajahi keindahan rasa tanpa merasa kewalahan.
 
