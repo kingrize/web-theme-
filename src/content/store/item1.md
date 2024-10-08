@@ -7,7 +7,7 @@ updatedDate: "Oct 07 2024"
 pricing: "Rp 100,000"
 badge: "Paling Laris"
 checkoutUrl: "https://wa.me/+62895333221691?text=Halo,%20saya%20ingin%20membeli%20produk%20anggur"
-heroImage: "/itemPreview.webp"
+heroImage: "/anggur_merah.jpg"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
