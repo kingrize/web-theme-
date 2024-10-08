@@ -6,7 +6,7 @@ custom_link: "https://demourl.com/"
 updatedDate: "Oct 07 2024"
 pricing: "100,000"
 badge: "Paling Laris"
-checkoutUrl: "https://checkouturl.com/](https://wa.me/+62895333221691?text=Halo,%20saya%20ingin%20membeli%20produk%20anggur"
+checkoutUrl: "https://wa.me/+62895333221691?text=Halo,%20saya%20ingin%20membeli%20produk%20anggur"
 heroImage: "/itemPreview.webp"
 ---
 
