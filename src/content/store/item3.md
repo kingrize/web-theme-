@@ -6,7 +6,7 @@ custom_link: "https://wa.me/+62895333221691?text=Halo,%20apakah%20stok%20untuk%2
 updatedDate: "Oct 09 2024"
 pricing: "Rp 45.000"
 oldPricing: "Rp 60.000"
-checkoutUrl: "https://wa.me/+62895333221691?text=Halo,%20saya%20ingin%20membeli%20produk%20buah%20tin"
+checkoutUrl: "https://wa.link/84jbb6"
 heroImage: "/tin.jpeg"
 ---
 
