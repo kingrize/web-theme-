@@ -4,8 +4,8 @@ description: "Buah tin, si manis eksotis yang nggak cuma enak, tapi juga penuh m
 custom_link_label: "Tanyakan Stok"
 custom_link: "https://wa.me/+62895333221691?text=Halo,%20apakah%20stok%20untuk%20anggur%20mewah%20masih%20tersedia?"
 updatedDate: "Oct 09 2024"
-pricing: "Rp 45.000"
-oldPricing: "Rp 60.000"
+pricing: "Rp. 45.000"
+oldPricing: "Rp. 60.000"
 checkoutUrl: "https://wa.link/84jbb6"
 heroImage: "/tin.jpeg"
 ---
