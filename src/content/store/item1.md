@@ -7,7 +7,7 @@ custom_link: "https://wa.me/+62895333221691?text=Halo,%20apakah%20stok%20untuk%2
 pricing: "Rp. 100,000"
 oldPricing: "Rp. 120.000"
 badge: "Paling Laris"
-checkoutUrl: "https://wa.me/+62895333221691?text=Halo,%20saya%20ingin%20membeli%20produk%20anggur"
+checkoutUrl: "https://wa.link/d9p43h"
 heroImage: "/anggur_2.jpg"
 ---
 
