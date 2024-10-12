@@ -4,8 +4,8 @@ description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do ei
 custom_link_label: "Custom Btn"
 custom_link: "https://customurl.com/"
 updatedDate: "Sep 11 2022"
-pricing: "50.000"
-oldPricing: "75.000"
+pricing: "Rp. 50.000"
+oldPricing: "Rp. 75.000"
 checkoutUrl: "https://checkouturl.com/"
 heroImage: "/melon.jpg"
 ---
