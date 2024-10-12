@@ -1,12 +1,12 @@
 ---
 title: "Melon Manis"
 description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-custom_link_label: "Custom Btn"
+custom_link_label: "Tanyakan Stok"
 custom_link: "https://customurl.com/"
 updatedDate: "Sep 11 2022"
 pricing: "Rp. 50.000"
 oldPricing: "Rp. 75.000"
-checkoutUrl: "https://checkouturl.com/"
+checkoutUrl: "[https://checkouturl.com/](https://wa.link/3qzxe8)"
 heroImage: "/melon.jpg"
 ---
 
