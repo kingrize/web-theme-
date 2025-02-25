@@ -1,6 +1,6 @@
-# First
+# 💠 ABOUT ME
 
-Website deployed by Arga
+This repo was deployed by Arga, Arha is a newbie in programming.
 
 
 ## Project Structure
